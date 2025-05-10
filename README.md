@@ -30,7 +30,7 @@ The data consists of MRI images. The data has four classes of images both in tra
 ### 📊 Model Classification Report
 
 <p align='center'><img src="https://github.com/user-attachments/assets/3679891d-1dd7-4ff6-bdf6-310b735415c6" alt="disp" width="500"></p>
-<p align='center'>Reported an overall accuracy of 82% </p>
+<p align='center'>Reported an overall accuracy of 82% (Test Data)</p>
 
 ### ↗️ Future Direction
 By virtue of Transfer-Learning, use a pre-trained deep convolutional neural network using the same dataset, to compare the performance and most importantly look out for the performance v/s computation cost tradeoff 💪.
