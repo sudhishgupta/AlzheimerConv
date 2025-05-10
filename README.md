@@ -16,8 +16,10 @@ The data consists of MRI images. The data has four classes of images both in tra
 
 ⭐ The dataset has pre-saved augmented images to enhance the variability of the training data for the Convolutional Model.
 
-<p align='center'><img src="https://github.com/user-attachments/assets/1070289b-a9f6-4342-a6c7-db52a77aa64d" alt="disp" width="500"></p>
-<p align='center'><img src="https://github.com/user-attachments/assets/c40f7b5a-b8f2-426f-a3ff-55748d333ab1" alt="disp" width="500"></p>
+<p align='center'><img src="https://github.com/user-attachments/assets/6f311495-cd64-44d8-9de7-462c8047d577" alt="disp" width="500"></p>
+<p align='center'><img src="https://github.com/user-attachments/assets/078c4dae-1eb9-495b-ada2-35bcd21d92ec" alt="disp" width="500"></p>
+
+
 
 
 
