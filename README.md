@@ -31,7 +31,7 @@ The data consists of MRI images. The data has four classes of images both in tra
 <p align='center'>Reported an overall accuracy of 82% </p>
 
 ### ↗️ Future Direction
-By virtue of Transfer-Learning, use a pre-trained deep convolutional neural network using the same dataset, and compare the performance and most importantly look out for the performance v/s computation tradeoff 💪.
+By virtue of Transfer-Learning, use a pre-trained deep convolutional neural network using the same dataset, to compare the performance and most importantly look out for the performance v/s computation cost tradeoff 💪.
 
 
 
