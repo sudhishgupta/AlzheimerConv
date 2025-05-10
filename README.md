@@ -14,12 +14,27 @@ The data consists of MRI images. The data has four classes of images both in tra
   <li>Very Mild Demented</li>
 </ol>
 
-⭐ The dataset has pre-saved augmented images to enhance the variability of the training data for the Convolutional Model. So we will be using that
+⭐ The dataset has pre-saved augmented images to enhance the variability of the training data for the Convolutional Model.
 
 <p align='center'><img src="https://github.com/user-attachments/assets/1070289b-a9f6-4342-a6c7-db52a77aa64d" alt="disp" width="500"></p>
+<p align='center'><img src="https://github.com/user-attachments/assets/c40f7b5a-b8f2-426f-a3ff-55748d333ab1" alt="disp" width="500"></p>
+
+
+
 
 ### 🏗️ Model Architecture
-<img src="https://github.com/user-attachments/assets/54784548-3db0-4048-8db0-bdc9c3ac3fcb" alt="disp" width="300" height="900">
+![image](https://github.com/user-attachments/assets/42e523a1-58d0-4c11-9583-a09e7cb4694a)
+
+### 📊 Model Classification Report
+
+<p align='center'><img src="https://github.com/user-attachments/assets/3679891d-1dd7-4ff6-bdf6-310b735415c6" alt="disp" width="500"></p>
+<p align='center'>Reported an overall accuracy of 82% </p>
+
+### ↗️ Future Direction
+Use Transfer-Learning to use a pre-trained deep convolutional neural network using the same dataset, and compare the performance and most importantly look out for the performance v/s computation tradeoff 💪.
+
+
+
 
 
 
